@@ -10,4 +10,5 @@ export const environment = {
     appId: '1:1021426634922:web:21df9518a813e01d7080d3',
     measurementId: 'G-112C79630F',
   },
+  
 };
